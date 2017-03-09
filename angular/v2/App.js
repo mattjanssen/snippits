@@ -1,6 +1,6 @@
 'use strict';
 
-var cacheBust = 215;
+var cacheBust = 1;
 
 require('angular').module('app', [
     'ngResource',
